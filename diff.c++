@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a=9;
+    int a=7;
     int b=5;
     cout<<"diff"<<a-b;
 }
